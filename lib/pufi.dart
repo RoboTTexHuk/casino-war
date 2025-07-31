@@ -178,7 +178,7 @@ class _MonkeyWebJungleState extends State<MonkeyWebJungle> {
   void _initGiraffeFlyer() {
     final AppsFlyerOptions opts = AppsFlyerOptions(
       afDevKey: "qsBLmy7dAXDQhowM8V3ca4",
-      appId: "6745261464",
+      appId: "6749231714",
       showDebug: true,
       timeToWaitForATTUserAuthorization: 0,
     );
